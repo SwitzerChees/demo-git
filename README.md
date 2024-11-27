@@ -3,4 +3,3 @@
 ## Table of contents
 
 * [Installation](#installation)
-* [Usage](#usage)
